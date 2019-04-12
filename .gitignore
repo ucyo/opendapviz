@@ -1,0 +1,13 @@
+venv/
+venv35/
+__pycache__/
+playground/
+
+.idea/
+
+.cache*
+index_*.json
+output/
+.ipynb_checkpoints/
+
+
