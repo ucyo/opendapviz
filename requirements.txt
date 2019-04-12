@@ -21,7 +21,7 @@ pyshp==2.0.1
 python-dateutil==2.7.5
 pytz==2018.7
 pyviz-comms==0.6.0
-PyYAML==3.13
+PyYAML>=4.2b1
 scipy==1.1.0
 Shapely==1.6.4.post2
 six==1.11.0
